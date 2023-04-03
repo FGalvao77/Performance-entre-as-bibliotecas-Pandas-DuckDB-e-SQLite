@@ -1,4 +1,4 @@
-## Performance entre as _libraries_ Pandas, DuckDB e SQLite
+## Performance entre as biblioteas: Pandas, DuckDB e SQLite
 ---
 
-- Realizando uma comparação de tempo de execução entre as bibliotecas.
+- Comparação de **tempo de execução** entre as _libraries_.
